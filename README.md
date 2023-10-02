@@ -1,6 +1,6 @@
 # Ingenias Proyecto Grupo 5
 
-## Utilizando técnicas de análisis de datos y machine learning, desarrollar un modelo predictivo que permita identificar patrones de gasto publicitario, tendencias estacionales y efectividad de los canales de publicidad en función de las variables disponibles en el dataset, con el fin de optimizar la asignación de recursos publicitarios y maximizar el retorno de inversión para los anunciantes.
+### Utilizando técnicas de análisis de datos y machine learning, desarrollar un modelo predictivo que permita identificar patrones de gasto publicitario, tendencias estacionales y efectividad de los canales de publicidad en función de las variables disponibles en el dataset, con el fin de optimizar la asignación de recursos publicitarios y maximizar el retorno de inversión para los anunciantes.
 
 ## Formato de codificación: .csv UTF-8
 
