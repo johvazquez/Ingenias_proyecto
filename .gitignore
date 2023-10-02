@@ -1,0 +1,5 @@
+# Ignorar archivos checkpoints
+.ipynb_checkpoints
+
+# Ignorar la carpeta ipynb_checkpoints
+ipynb_checkpoints
