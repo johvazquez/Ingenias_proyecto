@@ -1,12 +1,13 @@
-# Ingenias_proyecto
-##Utilizando técnicas de análisis de datos y machine learning, desarrollar un modelo predictivo que permita identificar patrones de gasto publicitario, tendencias estacionales y efectividad de los canales de publicidad en función de las variables disponibles en el dataset, con el fin de optimizar la asignación de recursos publicitarios y maximizar el retorno de inversión para los anunciantes.
+# Ingenias Proyecto Grupo 5
 
-#Formato de codificación: .csv UTF-8
+## Utilizando técnicas de análisis de datos y machine learning, desarrollar un modelo predictivo que permita identificar patrones de gasto publicitario, tendencias estacionales y efectividad de los canales de publicidad en función de las variables disponibles en el dataset, con el fin de optimizar la asignación de recursos publicitarios y maximizar el retorno de inversión para los anunciantes.
 
-##Delimitador de campos: ; (punto y coma)
-##Delimitador de decimales: . (punto)
+## Formato de codificación: .csv UTF-8
 
-#Diccionario de variables
+### Delimitador de campos: ; (punto y coma)
+### Delimitador de decimales: . (punto)
+
+## Diccionario de variables
 | Columna                          | Descripción                                         |
 |----------------------------------|-----------------------------------------------------|
 | Row type                         | Tipo de fila (e.g., 'Venta', 'Devolución', etc.)    |
